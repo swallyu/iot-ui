@@ -9,13 +9,6 @@
   dependencies:
     tinycolor2 "^1.4.1"
 
-"@ant-design/colors@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.npm.taobao.org/@ant-design/colors/download/@ant-design/colors-4.0.1.tgz?cache=0&sync_timestamp=1592447143244&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Fcolors%2Fdownload%2F%40ant-design%2Fcolors-4.0.1.tgz#6edab85c6d1ba51accaed4ae64fa934dd5ebb498"
-  integrity sha1-btq4XG0bpRrMrtSuZPqTTdXrtJg=
-  dependencies:
-    tinycolor2 "^1.4.1"
-
 "@ant-design/icons-vue@^2.0.0":
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/@ant-design/icons-vue/download/@ant-design/icons-vue-2.0.0.tgz#0357f5010a404e9f34a87a4b41b2a08df691dbce"
@@ -5382,9 +5375,9 @@ hex-color-regex@^1.1.0:
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
 highlight.js@^9.6.0:
-  version "9.18.1"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha1-7SGqAB/mJSuxCj121HVzxlOf4Tw=
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
