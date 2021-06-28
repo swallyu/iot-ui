@@ -9,13 +9,6 @@
   dependencies:
     tinycolor2 "^1.4.1"
 
-"@ant-design/colors@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.npm.taobao.org/@ant-design/colors/download/@ant-design/colors-4.0.1.tgz?cache=0&sync_timestamp=1592447143244&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Fcolors%2Fdownload%2F%40ant-design%2Fcolors-4.0.1.tgz#6edab85c6d1ba51accaed4ae64fa934dd5ebb498"
-  integrity sha1-btq4XG0bpRrMrtSuZPqTTdXrtJg=
-  dependencies:
-    tinycolor2 "^1.4.1"
-
 "@ant-design/icons-vue@^2.0.0":
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/@ant-design/icons-vue/download/@ant-design/icons-vue-2.0.0.tgz#0357f5010a404e9f34a87a4b41b2a08df691dbce"
@@ -2954,7 +2947,7 @@ cli-width@^2.0.0:
   resolved "https://registry.npm.taobao.org/cli-width/download/cli-width-2.2.1.tgz#b0433d0b4e9c847ef18868a4ef16fd5fc8271c48"
   integrity sha1-sEM9C06chH7xiGik7xb9X8gnHEg=
 
-clipboard@^2.0.0, clipboard@^2.0.6:
+clipboard@^2.0.6:
   version "2.0.6"
   resolved "https://registry.npm.taobao.org/clipboard/download/clipboard-2.0.6.tgz#52921296eec0fdf77ead1749421b21c968647376"
   integrity sha1-UpISlu7A/fd+rRdJQhshyWhkc3Y=
@@ -8299,11 +8292,9 @@ pretty-time@^1.1.0:
   integrity sha1-/7dCmvq7hTXDRqNOQYc63z103Q4=
 
 prismjs@^1.13.0:
-  version "1.20.0"
-  resolved "https://registry.npm.taobao.org/prismjs/download/prismjs-1.20.0.tgz#9b685fc480a3514ee7198eac6a3bf5024319ff03"
-  integrity sha1-m2hfxICjUU7nGY6sajv1AkMZ/wM=
-  optionalDependencies:
-    clipboard "^2.0.0"
+  version "1.24.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.24.0.tgz#0409c30068a6c52c89ef7f1089b3ca4de56be2ac"
+  integrity sha512-SqV5GRsNqnzCL8k5dfAjCNhUrF3pR0A9lTDSCUZeh/LIshheXJEaP0hwLz2t4XHivd2J/v2HR+gRnigzeKe3cQ==
 
 private@^0.1.8:
   version "0.1.8"
